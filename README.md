@@ -27,6 +27,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Playlist.new](https://Playlist.new) : New Spotify playlist.
 - [Invoice.new](https://Invoice.new) : New Stripe invoice
 - [reservation.new](https://reservation.new) : New openTable reservation.
+- [flutter.new](https://flutter.new) : New Flutter project using DartPad.
 
 ## Contribution
 
