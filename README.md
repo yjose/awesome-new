@@ -29,7 +29,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [reservation.new](https://reservation.new) : New openTable reservation.
 - [flutter.new](https://flutter.new) : New Flutter project using DartPad.
 - [podcast.new](http://podcast.new) : New podcast episode using Anchor.
-- [ionic.new](http://ionic.new) : New ionic project using Ionicframework.
+- [ionic.new](http://ionic.new) : New Ionic project using Ionic Framework.
 
 ## Contribution
 
