@@ -29,8 +29,9 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Invoice.new](https://Invoice.new) : New Stripe invoice
 - [reservation.new](https://reservation.new) : New openTable reservation.
 - [flutter.new](https://flutter.new) : New Flutter project using DartPad.
-- [podcast.new](http://podcast.new) : New podcast episode using Anchor.
-- [diagram.new](http://diagram.new) : New diagram using Diagrams.
+- [podcast.new](https://podcast.new) : New podcast episode using Anchor.
+- [ionic.new](https://ionic.new) : New Ionic project using Ionic Framework.
+- [diagram.new](https://diagram.new) : New diagram using Diagrams.
 
 ## Contribution
 
