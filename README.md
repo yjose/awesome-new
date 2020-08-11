@@ -6,6 +6,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Sheet.new](https://sheet.new) : New Google sheet.
 - [Slide.new](https://slide.new) : New Google Slide.
 - [Form.new](https://form.new) : New Google form.
+- [Meet.new](https://meet.new) : New video call with Google Meet.
 - [Meeting.new](https://meeting.new) : New Google Calendar event.
 - [Cal.new](https://cal.new) : New Google Calendar event.
 - [Keep.new](https://keep.new) : New Google note.
@@ -28,8 +29,9 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Invoice.new](https://Invoice.new) : New Stripe invoice
 - [reservation.new](https://reservation.new) : New openTable reservation.
 - [flutter.new](https://flutter.new) : New Flutter project using DartPad.
-- [podcast.new](http://podcast.new) : New podcast episode using Anchor.
-- [ionic.new](http://ionic.new) : New Ionic project using Ionic Framework.
+- [podcast.new](https://podcast.new) : New podcast episode using Anchor.
+- [ionic.new](https://ionic.new) : New Ionic project using Ionic Framework.
+- [diagram.new](https://diagram.new) : New diagram using Diagrams.
 
 ## Contribution
 
