@@ -32,6 +32,11 @@ A list of `.new` domain to perform online actions in one quick step.
 - [podcast.new](https://podcast.new) : New podcast episode using Anchor.
 - [ionic.new](https://ionic.new) : New Ionic project using Ionic Framework.
 - [diagram.new](https://diagram.new) : New diagram using Diagrams.
+- [pdf.new](https://pdf.new) : New Acrobat PDF from any Microsoft Office or image file.
+- [sign.new](https://sign.new) : New PDF form that you can fill, sign, save and send.
+- [jpgtopdf.new](https://jpgtopdf.new) : New PDF file from JPG.
+- [compresspdf.new](https://compresspdf.new) : New PDF compression.
+- [create.new](https://create.new) : New Spark design.
 
 ## Contribution
 
