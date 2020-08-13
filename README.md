@@ -10,7 +10,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Meeting.new](https://meeting.new) : New Google Calendar event.
 - [Cal.new](https://cal.new) : New Google Calendar event.
 - [Keep.new](https://keep.new) : New Google note.
-- [React.new](https://csb.new) : New React project using codeSandbox.
+- [React.new](https://react.new) : New React project using codeSandbox.
 - [Ts.new](https://ts.new) : New Typescript project using codeSandbox.
 - [Js.new](https://js.new) : New Javascript project using codeSandbox.
 - [Vue.new](https://vue.new) : New Vue project using codeSandbox.
