@@ -39,6 +39,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [create.new](https://create.new) : New Spark design.
 - [linear.new](https://linear.new) : New Linear issue.
 - [whats.new](https://whats.new) : Registry for .new shortcuts.
+- [Tw.new](https://tw.new) : New Google Sites.
 
 ## Contribution
 
