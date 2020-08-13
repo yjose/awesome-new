@@ -37,6 +37,8 @@ A list of `.new` domain to perform online actions in one quick step.
 - [jpgtopdf.new](https://jpgtopdf.new) : New PDF file from JPG.
 - [compresspdf.new](https://compresspdf.new) : New PDF compression.
 - [create.new](https://create.new) : New Spark design.
+- [linear.new](https://linear.new) : New Linear issue.
+- [whats.new](https://whats.new) : Registry for .new shortcuts.
 
 ## Contribution
 
