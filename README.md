@@ -40,6 +40,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [linear.new](https://linear.new) : New Linear issue.
 - [whats.new](https://whats.new) : Registry for .new shortcuts.
 - [Tw.new](https://tw.new) : New Google Sites.
+- [Sql.new](https://sql.new) : Write SQL queries for your data in other applications.
 
 ## Contribution
 
