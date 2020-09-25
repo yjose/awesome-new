@@ -27,18 +27,18 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Music.new](https://Music.new) : New song artwork for OVO Sound
 - [Playlist.new](https://Playlist.new) : New Spotify playlist.
 - [Invoice.new](https://Invoice.new) : New Stripe invoice
-- [reservation.new](https://reservation.new) : New openTable reservation.
-- [flutter.new](https://flutter.new) : New Flutter project using DartPad.
-- [podcast.new](https://podcast.new) : New podcast episode using Anchor.
-- [ionic.new](https://ionic.new) : New Ionic project using Ionic Framework.
-- [diagram.new](https://diagram.new) : New diagram using Diagrams.
-- [pdf.new](https://pdf.new) : New Acrobat PDF from any Microsoft Office or image file.
-- [sign.new](https://sign.new) : New PDF form that you can fill, sign, save and send.
-- [jpgtopdf.new](https://jpgtopdf.new) : New PDF file from JPG.
-- [compresspdf.new](https://compresspdf.new) : New PDF compression.
-- [create.new](https://create.new) : New Spark design.
-- [linear.new](https://linear.new) : New Linear issue.
-- [whats.new](https://whats.new) : Registry for .new shortcuts.
+- [Reservation.new](https://reservation.new) : New openTable reservation.
+- [Flutter.new](https://flutter.new) : New Flutter project using DartPad.
+- [Podcast.new](https://podcast.new) : New podcast episode using Anchor.
+- [Ionic.new](https://ionic.new) : New Ionic project using Ionic Framework.
+- [Diagram.new](https://diagram.new) : New diagram using Diagrams.
+- [Pdf.new](https://pdf.new) : New Acrobat PDF from any Microsoft Office or image file.
+- [Sign.new](https://sign.new) : New PDF form that you can fill, sign, save and send.
+- [Jpgtopdf.new](https://jpgtopdf.new) : New PDF file from JPG.
+- [Compresspdf.new](https://compresspdf.new) : New PDF compression.
+- [Create.new](https://create.new) : New Spark design.
+- [Linear.new](https://linear.new) : New Linear issue.
+- [Whats.new](https://whats.new) : Registry for .new shortcuts.
 - [Tw.new](https://tw.new) : New Google Sites.
 - [Sql.new](https://sql.new) : Write SQL queries for your data in other applications.
 
