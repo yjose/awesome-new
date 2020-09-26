@@ -44,4 +44,4 @@ A list of `.new` domain to perform online actions in one quick step.
 
 ## Contribution
 
-This list started as personal collection of interesting things to do with `.new` domains, if you have more useful `.new` actions, fell free to open a new PR, Your contributions and suggestions are heartily♡ welcome,
+This list started as personal collection of interesting things to do with `.new` domains, if you have more useful `.new` actions, feel free to open a new PR, Your contributions and suggestions are heartily♡ welcome,
