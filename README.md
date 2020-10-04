@@ -42,8 +42,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Tw.new](https://tw.new) : New Google Sites.
 - [Sql.new](https://sql.new) : Write SQL queries for your data in other applications.
 - [vso.new](https://vso.new) : Create a new Visual Studio codespace for your project.
-- [zeit.new](https://zeit.new) : Vercel	Import your frontend projects to Vercel for preview and deployment.
-- [flutter.new](https://flutter.new) : 	Prototype your app using Flutter's online editor.
+- [zeit.new](https://zeit.new) : Import your frontend projects to Vercel for preview and deployment.
 
 ## Contribution
 
