@@ -41,6 +41,8 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Whats.new](https://whats.new) : Registry for .new shortcuts.
 - [Tw.new](https://tw.new) : New Google Sites.
 - [Sql.new](https://sql.new) : Write SQL queries for your data in other applications.
+- [Vso.new](https://vso.new) : Create a new Visual Studio codespace for your project.
+- [Zeit.new](https://zeit.new) : Import your frontend projects to Vercel for preview and deployment.
 
 ## Contribution
 
