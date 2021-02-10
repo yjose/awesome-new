@@ -46,6 +46,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Deploy.new](https://deploy.new) : Deploy a new Vercel project from a repository or template. (same as zeit.new)
 - [Notion.new](https://notion.new) : Quickly create a new page in Notion.so
 - [Discord.new](https://discord.new) : Create a new discord server.
+- [Glitch.new](https://glitch.new) : Create a new project on Glitch.
 
 ## Contribution
 
