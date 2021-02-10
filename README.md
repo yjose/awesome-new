@@ -45,6 +45,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Zeit.new](https://zeit.new) : Import your frontend projects to Vercel for preview and deployment.
 - [Deploy.new](https://deploy.new) : Deploy a new Vercel project from a repository or template. (same as zeit.new)
 - [Notion.new](https://notion.new) : Quickly create a new page in Notion.so
+- [Discord.new](https://discord.new) : Create a new discord server.
 
 ## Contribution
 
