@@ -43,6 +43,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Sql.new](https://sql.new) : Write SQL queries for your data in other applications.
 - [Vso.new](https://vso.new) : Create a new Visual Studio codespace for your project.
 - [Zeit.new](https://zeit.new) : Import your frontend projects to Vercel for preview and deployment.
+- [Deploy.new](https://deploy.new) : Deploy a new Vercel project from a repository or template. (same as zeit.new)
 - [Notion.new](https://notion.new) : Quickly create a new page in Notion.so
 
 ## Contribution
