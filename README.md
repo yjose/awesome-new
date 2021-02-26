@@ -47,6 +47,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Notion.new](https://notion.new) : Quickly create a new page in Notion.so
 - [Discord.new](https://discord.new) : Create a new discord server.
 - [Glitch.new](https://glitch.new) : Create a new project on Glitch.
+- [Interview.new](https://interview.new) : Create a new interview on Hackerearth.
 
 ## Contribution
 
