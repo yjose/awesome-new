@@ -10,6 +10,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Meeting.new](https://meeting.new) : New Google Calendar event.
 - [Cal.new](https://cal.new) : New Google Calendar event.
 - [Keep.new](https://keep.new) : New Google note.
+- [Site.new](https://site.new) : New Google Site.
 - [Next.new](https://next.new) : New NextJS project using stackblitz.
 - [React.new](https://react.new) : New React project using codeSandbox.
 - [Ts.new](https://ts.new) : New Typescript project using codeSandbox.
@@ -25,7 +26,6 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Link.new](https://link.new) : New link using bitly.
 - [Api.new](https://api.new) : New Node.js API endpoint using RunKit.
 - [Webex.new](https://Webex.new) : New meeting room with Cisco Webex.
-- [Music.new](https://Music.new) : New song artwork for OVO Sound
 - [Playlist.new](https://Playlist.new) : New Spotify playlist.
 - [Invoice.new](https://Invoice.new) : New Stripe invoice
 - [Reservation.new](https://reservation.new) : New openTable reservation.
@@ -44,7 +44,6 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Tw.new](https://tw.new) : New Google Sites.
 - [Sql.new](https://sql.new) : Write SQL queries for your data in other applications.
 - [Vso.new](https://vso.new) : Create a new Visual Studio codespace for your project.
-- [Zeit.new](https://zeit.new) : Import your frontend projects to Vercel for preview and deployment.
 - [Deploy.new](https://deploy.new) : Deploy a new Vercel project from a repository or template. (same as zeit.new)
 - [Notion.new](https://notion.new) : Quickly create a new page in Notion.so
 - [Discord.new](https://discord.new) : Create a new discord server.
