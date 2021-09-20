@@ -49,7 +49,8 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Discord.new](https://discord.new) : Create a new discord server.
 - [Glitch.new](https://glitch.new) : Create a new project on Glitch.
 - [Interview.new](https://interview.new) : Create a new interview on Hackerearth.
-
+- [Database.new](https://database.new) : Create a new Postgres database on Supabase
+- 
 ## Contribution
 
 This list started as personal collection of interesting things to do with `.new` domains, if you have more useful `.new` actions, feel free to open a new PR, Your contributions and suggestions are heartily♡ welcome,
