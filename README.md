@@ -12,6 +12,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Keep.new](https://keep.new) : New Google note.
 - [Site.new](https://site.new) : New Google Site.
 - [Next.new](https://next.new) : New NextJS project using stackblitz.
+- [Node.new](https://node.new) : New Node.js Project using stackblitz.
 - [React.new](https://react.new) : New React project using codeSandbox.
 - [Ts.new](https://ts.new) : New Typescript project using codeSandbox.
 - [Js.new](https://js.new) : New Javascript project using codeSandbox.
