@@ -52,7 +52,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Glitch.new](https://glitch.new) : Create a new project on Glitch.
 - [Interview.new](https://interview.new) : Create a new interview on Hackerearth.
 - [Database.new](https://database.new) : Create a new Postgres database on Supabase
--
+- [Member.new](https://member.new) : Create a new member in your Orbit workspace
 
 ## Contribution
 
