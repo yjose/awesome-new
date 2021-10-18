@@ -53,6 +53,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Interview.new](https://interview.new) : Create a new interview on Hackerearth.
 - [Database.new](https://database.new) : Create a new Postgres database on Supabase
 - [Member.new](https://member.new) : Create a new member in your Orbit workspace
+- [Dev.new](https://dev.new) : Deploy a new Railway project
 
 ## Contribution
 
