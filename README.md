@@ -21,6 +21,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Ng.new](https://ng.new) : New Angular project using codeSandbox.
 - [Csb.new](https://csb.new) : New codeSandbox project.
 - [Pen.new](https://pen.new) : New codePen project.
+- [Github.new](https://github.new) : New GitHub repo.
 - [Repo.new](https://repo.new) : New Github repo.
 - [Gist.new](https://gist.new) : New Github gist.
 - [Story.new](https://story.new) : New Medium story.
