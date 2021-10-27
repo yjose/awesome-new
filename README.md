@@ -55,6 +55,8 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Database.new](https://database.new) : Create a new Postgres database on Supabase
 - [Member.new](https://member.new) : Create a new member in your Orbit workspace
 - [Dev.new](https://dev.new) : Deploy a new Railway project
+- [Uuid.new](https://uuid.new) : Generate a new UUID.
+- [Stay.new](https://stay.new) : Book a stay.
 
 ## Contribution
 
