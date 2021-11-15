@@ -17,9 +17,11 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Ts.new](https://ts.new) : New Typescript project using codeSandbox.
 - [Js.new](https://js.new) : New Javascript project using codeSandbox.
 - [Vue.new](https://vue.new) : New Vue project using codeSandbox.
+- [Nuxt.new](https://nuxt.new) : New Nuxt project using codeSandbox.
 - [Ng.new](https://ng.new) : New Angular project using codeSandbox.
 - [Csb.new](https://csb.new) : New codeSandbox project.
 - [Pen.new](https://pen.new) : New codePen project.
+- [Github.new](https://github.new) : New GitHub repo.
 - [Repo.new](https://repo.new) : New Github repo.
 - [Gist.new](https://gist.new) : New Github gist.
 - [Story.new](https://story.new) : New Medium story.
@@ -51,7 +53,11 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Glitch.new](https://glitch.new) : Create a new project on Glitch.
 - [Interview.new](https://interview.new) : Create a new interview on Hackerearth.
 - [Database.new](https://database.new) : Create a new Postgres database on Supabase
-- 
+- [Member.new](https://member.new) : Create a new member in your Orbit workspace
+- [Dev.new](https://dev.new) : Deploy a new Railway project
+- [Uuid.new](https://uuid.new) : Generate a new UUID.
+- [Stay.new](https://stay.new) : Book a stay.
+
 ## Contribution
 
 This list started as personal collection of interesting things to do with `.new` domains, if you have more useful `.new` actions, feel free to open a new PR, Your contributions and suggestions are heartily♡ welcome,
