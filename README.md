@@ -59,6 +59,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Dev.new](https://dev.new) : Deploy a new Railway project
 - [Uuid.new](https://uuid.new) : Generate a new UUID.
 - [Stay.new](https://stay.new) : Book a stay.
+- [Gitlab.new](https://gitlab.new) : New GitLab project.
 
 ## Contribution
 
