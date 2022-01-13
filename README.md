@@ -60,6 +60,11 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Uuid.new](https://uuid.new) : Generate a new UUID.
 - [Stay.new](https://stay.new) : Book a stay.
 - [Gitlab.new](https://gitlab.new) : New GitLab project.
+- [Python.new](https://python.new) : New Python code-sandbox on CoderPad.io
+- [Cpp.new](https://cpp.new) : New C++ code-sandbox on CoderPad.io
+- [Objc.new](https://objc.new) : New Objective-C code-sandbox on CoderPad.io
+- [Kotlin.new](https://kotlin.new) : New Kotlin code-sandbox on CoderPad.io
+- [Pad.new](https://pad.new) : Create a new CoderPad for technical interviewing 
 
 ## Contribution
 
