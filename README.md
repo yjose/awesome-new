@@ -2,6 +2,7 @@ A list of `.new` domain to perform online actions in one quick step.
 
 <hr>
 
+- [Bit.new](https://bit.new) : New component scope on Bit Cloud
 - [Doc.new](https://doc.new) : New Google Doc.
 - [Sheet.new](https://sheet.new) : New Google sheet.
 - [Slide.new](https://slide.new) : New Google Slide.
