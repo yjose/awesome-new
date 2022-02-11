@@ -66,6 +66,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Objc.new](https://objc.new) : New Objective-C code-sandbox on CoderPad.io
 - [Kotlin.new](https://kotlin.new) : New Kotlin code-sandbox on CoderPad.io
 - [Pad.new](https://pad.new) : Create a new CoderPad for technical interviewing 
+- [Password.new](https://password.new) : Generate a new strong password
 
 ## Contribution
 
