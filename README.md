@@ -67,6 +67,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Kotlin.new](https://kotlin.new) : New Kotlin code-sandbox on CoderPad.io
 - [Pad.new](https://pad.new) : Create a new CoderPad for technical interviewing 
 - [Password.new](https://password.new) : Generate a new strong password
+- [Rails.new](https://rails.new) : Getting started script for Ruby on Rails on macOS
 
 ## Contribution
 
