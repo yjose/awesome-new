@@ -69,6 +69,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Password.new](https://password.new) : Generate a new strong password
 - [Rails.new](https://rails.new) : Getting started script for Ruby on Rails on macOS
 - [Hydrogen.new](https://hydrogen.new/): Experiment hydrogen, a front-end web development framework used for building Shopify custom storefronts (using stackblitz)
+- [Rust.new](https://rust.new) : New Rust code-sandbox.
 
 ## Contribution
 
