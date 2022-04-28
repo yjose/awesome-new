@@ -70,6 +70,10 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Rails.new](https://rails.new) : Getting started script for Ruby on Rails on macOS
 - [Hydrogen.new](https://hydrogen.new/): Experiment hydrogen, a front-end web development framework used for building Shopify custom storefronts (using stackblitz)
 - [Rust.new](https://rust.new) : New Rust code-sandbox.
+- [Vite.new](https://vite.new): New Vite stackblitz
+- [Vite.new/react](https://vite.new/react) - New Vite based React on stackblitz
+- [Vitest.new](https://vitest.new) - New Vitest on stackblitz
+- [Remix.new](https://remix.new) - New Remix on stackblitz 
 
 ## Contribution
 
