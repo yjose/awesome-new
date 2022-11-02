@@ -74,6 +74,8 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Vite.new/react](https://vite.new/react) - New Vite based React on stackblitz
 - [Vitest.new](https://vitest.new) - New Vitest on stackblitz
 - [Remix.new](https://remix.new) - New Remix on stackblitz 
+- [Laravel.new](https://laravel.new/) - New Laravel project on the PHPSandbox
+- [Job.new](https://job.new/) — Link to https://startup.jobs/
 
 ## Contribution
 
