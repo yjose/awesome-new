@@ -77,6 +77,7 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Laravel.new](https://laravel.new/) - New Laravel project on the PHPSandbox
 - [Job.new](https://job.new/) — Link to https://startup.jobs/
 - [Qwik.new](https://qwik.new/) : New Qwik project using stackblitz.
+- [Demo.new](https://demo.new/) : Starts a new Demodesk meeting.
 
 ## Contribution
 
