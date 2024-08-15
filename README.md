@@ -78,6 +78,8 @@ A list of `.new` domain to perform online actions in one quick step.
 - [Job.new](https://job.new/) — Link to https://startup.jobs/
 - [Qwik.new](https://qwik.new/) : New Qwik project using stackblitz.
 - [Demo.new](https://demo.new/) : Starts a new Demodesk meeting.
+- [ddocs.new](https://ddocs.new/) : Starts a new Fileverse Document editor
+- [flipside.new](https://flipside.new/) : Starts a new SQL query for Flipside Crypto
 
 ## Contribution
 
